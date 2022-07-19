@@ -8,4 +8,4 @@ ENV myname Saurav Thakur
 
 COPY testfile1 /tmp
 
-Add test.tar.gz /tmp
+ADD test.tar.gz /tmp
